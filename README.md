@@ -1,6 +1,9 @@
 # Official_Statistics
 Notes on Official Statistics
 
+* Population
+  * [Hong Kong 2021 Population Census - Technical Report](https://nbviewer.org/github/stevenkhwun/Official_Statistics/blob/main/Population.ipynb)
+
 * General
   * [Living with Statistics 2023](https://nbviewer.org/github/stevenkhwun/Official_Statistics/blob/main/CSD_Publications/General/B8XX00252023XXXXE0100.pdf), 11 Sep 2023.
 
