@@ -2,7 +2,7 @@
 Notes on Official Statistics
 
 * General
-  * [Living with Statistics 2023](https://nbviewer.org/github/stevenkhwun/Official_Statistics/blob/main/CSD_Publications/General/B8XX00252022XXXXE0100.pdf), 11 Sep 2023.
+  * [Living with Statistics 2023](https://nbviewer.org/github/stevenkhwun/Official_Statistics/blob/main/CSD_Publications/General/B8XX00252023XXXXE0100.pdf), 11 Sep 2023.
 
 * Technical matters
   * Seasonal adjustments
